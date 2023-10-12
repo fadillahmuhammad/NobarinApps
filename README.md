@@ -35,8 +35,9 @@ samples, guidance on mobile development, and a full API reference.
 <img width="150" alt="screen 6" src="https://github.com/fadillahmuhammad/NobarinApps/assets/74767974/413ce838-042b-4bd7-9163-15c4053be9a4">
 <img width="150" alt="screen 7" src="https://github.com/fadillahmuhammad/NobarinApps/assets/74767974/316b41ee-0198-4515-b318-5cf5de064c72">
 <img width="150" alt="screen 8" src="https://github.com/fadillahmuhammad/NobarinApps/assets/74767974/f8b38af7-12fb-4589-8bb9-043d8df5badd">
-<img width="150" alt="screen 9" src="https://github.com/fadillahmuhammad/NobarinApps/assets/74767974/0facc064-a7ce-4c67-b04b-26ba795aaf65"><br />
-* Ordering Ticket Flow<br />
+<img width="150" alt="screen 9" src="https://github.com/fadillahmuhammad/NobarinApps/assets/74767974/0facc064-a7ce-4c67-b04b-26ba795aaf65"><br /><br />
+* Ordering Ticket Flow
+* <br />
 <img width="150" alt="screen 9.1" src="https://github.com/fadillahmuhammad/NobarinApps/assets/74767974/0facc064-a7ce-4c67-b04b-26ba795aaf65">
 <img width="150" alt="screen 10" src="https://github.com/fadillahmuhammad/NobarinApps/assets/74767974/c6b483d9-45fe-4483-8261-f5d9fa57ec86">
 <img width="150" alt="screen 11" src="https://github.com/fadillahmuhammad/NobarinApps/assets/74767974/02a1463f-277c-4035-9643-6986ef303bf3">
