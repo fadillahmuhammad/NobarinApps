@@ -26,7 +26,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Pages Design
 
-* Sign Up Flow
+* Sign Up Flow <br />
 <img width="150" alt="screen 9.1" src="https://github.com/fadillahmuhammad/NobarinApps/assets/74767974/0facc064-a7ce-4c67-b04b-26ba795aaf65">
 <img width="150" alt="screen 10" src="https://github.com/fadillahmuhammad/NobarinApps/assets/74767974/c6b483d9-45fe-4483-8261-f5d9fa57ec86">
 <img width="150" alt="screen 11" src="https://github.com/fadillahmuhammad/NobarinApps/assets/74767974/02a1463f-277c-4035-9643-6986ef303bf3">
