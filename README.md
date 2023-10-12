@@ -26,7 +26,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Pages Design
 
-- Sign Up Flow
+* Sign Up Flow
 <img width="150" alt="screen 1" src="https://github.com/fadillahmuhammad/NobarinApps/assets/74767974/95be70ed-aae7-4068-a1b6-8347d53177b0">
 <img width="150" alt="screen 2" src="https://github.com/fadillahmuhammad/NobarinApps/assets/74767974/d8a76c85-1532-46b8-8df6-86ec1b2c7b0d">
 <img width="150" alt="screen 3" src="https://github.com/fadillahmuhammad/NobarinApps/assets/74767974/32ff0085-0f04-4228-8fcb-ef01cbe41624">
@@ -36,7 +36,7 @@ samples, guidance on mobile development, and a full API reference.
 <img width="150" alt="screen 7" src="https://github.com/fadillahmuhammad/NobarinApps/assets/74767974/316b41ee-0198-4515-b318-5cf5de064c72">
 <img width="150" alt="screen 8" src="https://github.com/fadillahmuhammad/NobarinApps/assets/74767974/f8b38af7-12fb-4589-8bb9-043d8df5badd">
 <img width="150" alt="screen 9" src="https://github.com/fadillahmuhammad/NobarinApps/assets/74767974/0facc064-a7ce-4c67-b04b-26ba795aaf65"><br />
-- Ordering Ticket Flow<br />
+* Ordering Ticket Flow<br />
 <img width="150" alt="screen 9.1" src="https://github.com/fadillahmuhammad/NobarinApps/assets/74767974/0facc064-a7ce-4c67-b04b-26ba795aaf65">
 <img width="150" alt="screen 10" src="https://github.com/fadillahmuhammad/NobarinApps/assets/74767974/c6b483d9-45fe-4483-8261-f5d9fa57ec86">
 <img width="150" alt="screen 11" src="https://github.com/fadillahmuhammad/NobarinApps/assets/74767974/02a1463f-277c-4035-9643-6986ef303bf3">
@@ -50,7 +50,7 @@ samples, guidance on mobile development, and a full API reference.
 <img width="150" alt="screen 19" src="https://github.com/fadillahmuhammad/NobarinApps/assets/74767974/0d5914c2-7b3a-4945-86dc-21c44361c031">
 <img width="150" alt="screen 20" src="https://github.com/fadillahmuhammad/NobarinApps/assets/74767974/69ac5da1-8699-435e-a191-b125e00133e3">
 <img width="150" alt="screen 21" src="https://github.com/fadillahmuhammad/NobarinApps/assets/74767974/b266789c-8cac-4eae-9620-05c1b979b99d"><br />
-- Top-Up Wallet Flow<br />
+* Top-Up Wallet Flow<br />
 <img width="150" alt="screen 9.2" src="https://github.com/fadillahmuhammad/NobarinApps/assets/74767974/0facc064-a7ce-4c67-b04b-26ba795aaf65">
 <img width="150" alt="screen 22" src="https://github.com/fadillahmuhammad/NobarinApps/assets/74767974/77bf9914-9108-435c-90e7-5f6b0e822eb8">
 <img width="150" alt="screen 23" src="https://github.com/fadillahmuhammad/NobarinApps/assets/74767974/a8afb573-8725-4865-b5b6-6222039ba298">
@@ -58,10 +58,10 @@ samples, guidance on mobile development, and a full API reference.
 <img width="150" alt="screen 25" src="https://github.com/fadillahmuhammad/NobarinApps/assets/74767974/c16dbbc2-bd23-48be-9235-5d256e3c3a78">
 <img width="150" alt="screen 26" src="https://github.com/fadillahmuhammad/NobarinApps/assets/74767974/1dfdad99-5336-41e1-abcf-7855b7afb49e">
 <img width="150" alt="screen 27" src="https://github.com/fadillahmuhammad/NobarinApps/assets/74767974/95c4df92-6294-4c2a-a9c8-eb8ac822d2fb"><br />
-- Edit Profile Flow<br />
+* Edit Profile Flow<br />
 <img width="150" alt="screen 28" src="https://github.com/fadillahmuhammad/NobarinApps/assets/74767974/c5aa326a-f35b-4d40-9da8-0f54d78fb092">
 <img width="150" alt="screen 29" src="https://github.com/fadillahmuhammad/NobarinApps/assets/74767974/47b61629-92fc-4444-bbbe-e4c8cffea12b"><br />
-- Sign In Flow<br />
+* Sign In Flow<br />
 <img width="150" alt="screen 30" src="https://github.com/fadillahmuhammad/NobarinApps/assets/74767974/dee5a461-5dd0-4d38-a69c-fd6e9857dde6">
 <img width="150" alt="screen 31" src="https://github.com/fadillahmuhammad/NobarinApps/assets/74767974/cc29f466-b288-469d-9d25-e2fce5bc9c96">
 <img width="150" alt="screen 32" src="https://github.com/fadillahmuhammad/NobarinApps/assets/74767974/1bab5e55-8d48-4a84-829d-8f1aeea13989">
