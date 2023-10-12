@@ -1,7 +1,15 @@
 # Nobarin Apps
 
-**Application for Ordering Cinema Tickets Online using Flutter**
+**Application for Ordering Cinema Tickets Online using Flutter**<br />
 Application of learning outcomes in the "Full-Stack Flutter Mobile Apps Developer" course at PT. BuildWithAngga (BWA)
+
+## What Have I Done
+- Slicing design to code using Flutter
+- BLoC State Management
+- MVVM Architecture
+- Firebase Authentication, Storage, and Cloud Firestore integration
+- Full REST-API from IMDb
+- API Testing using Postman
 
 ## Getting Started
 
@@ -15,14 +23,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-
-## What Have I Done
-- Slicing design to code using Flutter
-- BLoC State Management
-- MVVM Architecture
-- Firebase Authentication, Storage, and Cloud Firestore integration
-- Full REST-API from IMDb
-- API Testing using Postman
 
 ## Pages Design
 
